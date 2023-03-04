@@ -1,0 +1,4 @@
+celcius=int(input("enter celcius temp"))
+farenheat=((celcius*9/5+32))
+print("farenheat temp is")
+print(farenheat)
