@@ -1,0 +1,7 @@
+n=float(input("enter number"))
+x=n*n
+y=n*n*n
+print("square number")
+print(x)
+print("cube number")
+print(y)
